@@ -2,18 +2,18 @@ project:
   type: website
   output-dir: docs
 
-website:
-  title: "quartoCourseBlog"
+website: 
+  title: "Ana's R portfolio"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/CrumpLab/quartoCourseBlog
+        href: https://github.com/Anazuniga57/codingwithan-.git
       - icon: twitter
         href: https://twitter.com/MattCrumpLab
 format:
   html:
-    theme: minty
+    theme: sketchy
     css: styles.css
 
 editor: visual

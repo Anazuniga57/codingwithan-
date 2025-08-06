@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: "About Me"
 image: profile.jpg
-about:
+about :
   template: jolla
   links:
     - icon: twitter
@@ -17,12 +17,18 @@ about:
 
 The content on this page is from `about.qmd`. Edit that file to change how this page looks.
 
-"About" pages are special quarto template pages, with multiple options: <https://quarto.org/docs/websites/website-about.html>.
+# project-
 
-Try changing the template type from `jolla` to one of the other options for a different look and feel.
+## intro
 
-#### *visual mode*
+### methods
 
-[I am trying this for the first time.]{.underline}
+#### results
 
-I am trying new things out side of my comfort zone.
+##### data source
+
+###### packages used
+
+## approach
+
+library(tidyverse) install.(tidyverse)
