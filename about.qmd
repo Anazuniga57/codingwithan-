@@ -24,3 +24,5 @@ Try changing the template type from `jolla` to one of the other options for a di
 #### *visual mode*
 
 [I am trying this for the first time.]{.underline}
+
+I am trying new things out side of my comfort zone.
