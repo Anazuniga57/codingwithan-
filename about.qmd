@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Coding R with Ana"
 image: profile.jpg
 about :
   template: jolla
@@ -16,19 +16,3 @@ about :
 ---
 
 The content on this page is from `about.qmd`. Edit that file to change how this page looks.
-
-# project-
-
-## intro
-
-### methods
-
-#### results
-
-##### data source
-
-###### packages used
-
-## approach
-
-library(tidyverse) install.(tidyverse)

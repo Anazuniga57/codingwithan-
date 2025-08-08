@@ -11,7 +11,3 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
-
-welcome to my website attempting R coding.
-
-I am learning everything from 0 in a 1 week crash course.
